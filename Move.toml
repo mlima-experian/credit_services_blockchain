@@ -1,7 +1,7 @@
 [package]
 name = "credit_service"
 version = "1.0.0"
-authors = []
+authors = ["Marcos Lima (github.com/mlima-experian)"]
 
 [addresses]
 
